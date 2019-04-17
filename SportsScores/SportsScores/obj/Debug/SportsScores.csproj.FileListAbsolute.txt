@@ -1,0 +1,8 @@
+C:\Users\Sean\Desktop\SportsScores\SportsScores\bin\Debug\SportsScores.exe.config
+C:\Users\Sean\Desktop\SportsScores\SportsScores\bin\Debug\SportsScores.exe
+C:\Users\Sean\Desktop\SportsScores\SportsScores\bin\Debug\SportsScores.pdb
+C:\Users\Sean\Desktop\SportsScores\SportsScores\obj\Debug\SportsScores.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\SportsScores\SportsScores\obj\Debug\SportsScores.exe
+C:\Users\Sean\Desktop\SportsScores\SportsScores\obj\Debug\SportsScores.pdb
+C:\Users\Sean\Desktop\SportsScores\SportsScores\bin\Debug\databasescores_log.ldf
+C:\Users\Sean\Desktop\SportsScores\SportsScores\bin\Debug\databasescores.mdf
